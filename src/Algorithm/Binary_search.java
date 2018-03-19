@@ -11,7 +11,8 @@ package Algorithm;
 public class Binary_search {
     public static int search(int key, int[] array){
         int l = 0, h = array.length-1;
-        while (l<h){
+        while (l<h)
+        {
             int middle = l + (h-1)/2;//此处注意写middle的方法,Tip1
             if(key == array[middle])
                 return middle;
