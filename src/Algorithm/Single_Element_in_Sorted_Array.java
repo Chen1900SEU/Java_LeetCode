@@ -26,7 +26,7 @@ public class Single_Element_in_Sorted_Array {
             else
                 h=mid;//这里不需要提供elseif去返回nums[mid]
         }
-        return nums[l];
+        return nums[h];
     }
     public static void main(String[] args) {
         int[] nums ={1,1,2};
