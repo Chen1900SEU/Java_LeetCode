@@ -1,4 +1,4 @@
-package Algorithm;
+package Algorithm.二分查找;
 
 /**
  * LeetCode 441

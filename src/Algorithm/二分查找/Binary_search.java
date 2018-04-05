@@ -1,4 +1,4 @@
-package Algorithm;
+package Algorithm.二分查找;
 
 /**
  Tip.1 在计算 mid 时不能使用 mid = (l + h) / 2 这种方式，因为 l + h 可能会导致加法溢出，应该使用 mid = l + (h - l) / 2。
