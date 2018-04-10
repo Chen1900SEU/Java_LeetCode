@@ -1,4 +1,4 @@
-package Tencent2017Code;
+package CompanyRecruitCode;
 import java.util.*;
 public class code360_1 {
 //    public static void main(String[] args) {

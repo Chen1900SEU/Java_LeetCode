@@ -1,4 +1,4 @@
-package Tencent2017Code;
+package CompanyRecruitCode;
 
 import java.util.Scanner;
 
