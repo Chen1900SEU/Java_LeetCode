@@ -1,4 +1,4 @@
-package CompanyRecruitCode;
+package CompanyRecruitCode.京东;
 
 import java.util.Scanner;
 

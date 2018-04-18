@@ -1,4 +1,4 @@
-package CompanyRecruitCode;
+package CompanyRecruitCode.奇虎360;
 
 import java.util.Arrays;
 import java.util.Scanner;

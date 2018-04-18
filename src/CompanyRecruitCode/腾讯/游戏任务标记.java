@@ -1,4 +1,4 @@
-package CompanyRecruitCode;
+package CompanyRecruitCode.腾讯;
 
 /***
  游戏里面有很多各式各样的任务，其中有一种任务玩家只能做一次，这类任务一共有1024个，任务ID范围[1,1024]。
